@@ -1,2 +1,2 @@
 # Python-programming-basic-level
-Базовые навыки програмиирование на питон по курсу https://stepik.org/course/67/syllabus
+Базовые навыки программирования на Pyhon 3 по курсу https://stepik.org/course/67/syllabus
